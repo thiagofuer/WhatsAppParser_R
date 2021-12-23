@@ -1,0 +1,257 @@
+De: WhatsApp <noreply@records.whatsapp.com>
+Enviado: segunda, 01 de janeiro de 2021 00:01
+Para: Teste de teste <teste@teste.br>
+Assunto: Legal Process for 112211221122/ Case #00000000 (2021_00_00_00_00_00_-00000)
+ 
+These records are provided by email in HTML only. We have also provided a corresponding link to the records accessible in our Law Enforcement Response System
+
+
+Download results of your legal order on the WhatsApp Law Enforcement Portal
+
+Service	WhatsApp
+Account Identifier	+112211221122
+Account Type	WhatsAppUser
+Generated	2021-01-01 23:59:59 UTC
+Date Range	2021-01-01 01:02:03 UTC to 2021-01-01 23:59:00 UTC
+Message Log	
+Message	
+Timestamp	2021-01-01 14:13:59 UTC
+Message Id	aabbccddeeffgghhiijj112233445566
+Sender	112211221122
+Recipients	556699887766
+Sender Ip	2001:DB8:0:0:130F::140B
+Sender Port	49878
+Sender Device	smba
+Type	ptt
+Message Style	individual
+Message Size	560
+
+
+Message	
+Timestamp	2021-01-01 14:12:17 UTC
+Message Id	aabbccddeeffgghhiijjgghhjjffddee
+Sender	556699887766
+Recipients	112211221122
+Sender Device	android
+Type	ptt
+Message Style	individual
+Message Size	560
+
+
+Message	
+Timestamp	2021-01-01 11:53:20 UTC
+Message Id	bbggccddeeffgghhiijjgghhjjffddee
+Sender	112211221122
+Recipients	556992590028
+Sender Ip	179.251.188.199
+Sender Port	39914
+Sender Device	smba
+Type	text
+Message Style	individual
+Message Size	112
+
+
+Message	
+Timestamp	2021-01-01 11:49:28 UTC
+Message Id	bbggccddeeffgghhrtyugghhjjffddee
+Sender	556992590028
+Recipients	112211221122
+Sender Device	android
+Type	ptt
+Message Style	individual
+Message Size	560
+
+
+Message	
+Timestamp	2021-01-01 11:54:54 UTC
+Message Id	bbggccddeeffgg345tyugghhjjffddee
+Sender	556699887711
+Recipients	112211221122
+Sender Device	android
+Type	ptt
+Message Style	individual
+Message Size	540
+
+
+Message	
+Timestamp	2021-01-01 13:19:07 UTC
+Message Id	ata6a7aua78a8jdof9ie
+Sender	556993961279
+Recipients	112211221122
+Sender Device	iphone
+Type	text
+Message Style	individual
+Message Size	132
+
+
+Message	
+Timestamp	2021-01-01 12:00:25 UTC
+Message Id	a8suf83hv8rj3n84u3498fw08fh0wufs
+Sender	556699223344
+Recipients	112211221122
+Sender Device	android
+Type	image
+Message Style	individual
+Message Size	1456
+
+
+Message	
+Timestamp	2021-01-01 11:53:46 UTC
+Message Id	a8sdgjklçprj3n84u3498fw08fh0wufs
+Sender	112211221122
+Recipients	556699887711
+Sender Ip	179.251.281.296
+Sender Port	39914
+Sender Device	smba
+Type	ptt
+Message Style	individual
+Message Size	560
+
+
+Message	
+Timestamp	2021-01-01 12:02:02 UTC
+Message Id	a8suf83hv8rj3n84u3498f456789wufs
+Sender	112211221122
+Recipients	556699223344
+Sender Ip	174.254.185.156
+Sender Port	40076
+Sender Device	smba
+Type	sticker
+Message Style	individual
+Message Size	540
+
+
+Message	
+Timestamp	2021-01-01 13:19:22 UTC
+Message Id	d45363fgjkw08fh0wufs
+Sender	556993961279
+Recipients	112211221122
+Sender Device	iphone
+Type	text
+Message Style	individual
+Message Size	152
+
+
+Message	
+Timestamp	2021-01-01 13:18:48 UTC
+Message Id	d45363sgjk854332wufs
+Sender	556993961279
+Recipients	112211221122
+Sender Device	iphone
+Type	text
+Message Style	individual
+Message Size	88
+
+
+Message	
+Timestamp	2021-01-01 13:18:56 UTC
+Message Id	d45363fgjkssssssssss
+Sender	556993961279
+Recipients	112211221122
+Sender Device	iphone
+Type	text
+Message Style	individual
+Message Size	112
+
+
+Message	
+Timestamp	2021-01-01 13:24:09 UTC
+Message Id	a8suf83hv8rj3n8s3df55hh7j2222fs
+Sender	556611224411
+Recipients	112211221122
+Sender Device	android
+Type	text
+Message Style	individual
+Message Size	516
+
+
+Message	
+Timestamp	2021-01-01 12:22:57 UTC
+Message Id	a8suf83hvaa2222222222336789wufs
+Sender	556600224400
+Recipients	112211221122
+Sender Device	smba
+Type	document
+Message Style	individual
+Message Size	23112
+
+
+Message	
+Timestamp	2021-01-01 13:19:42 UTC
+Message Id	a8suf83hdcvbnm84
+Sender	556993961279
+Recipients	112211221122
+Sender Device	iphone
+Type	text
+Message Style	individual
+Message Size	132
+
+
+Message	
+Timestamp	2021-01-01 13:19:30 UTC
+Message Id	aasscswfwfwe98f456789wufs
+Sender	556993961279
+Recipients	112211221122
+Sender Device	iphone
+Type	image
+Message Style	individual
+Message Size	1648
+
+
+Message	
+Timestamp	2021-01-01 13:23:46 UTC
+Message Id	a8sufj3n84u342323r332332423423s
+Sender	556611224411
+Recipients	112211221122
+Sender Device	android
+Type	text
+Message Style	individual
+Message Size	304
+
+
+Message	
+Timestamp	2021-01-01 14:23:03 UTC
+Message Id	a8suf83hv8rj3n84u3498fasdfgggg
+Sender	556699887766
+Recipients	112211221122
+Sender Device	android
+Type	ptt
+Message Style	individual
+Message Size	560
+
+
+Message	
+Timestamp	2021-01-01 14:29:01 UTC
+Message Id	a8suf83hv8rj31212212323189wufs
+Sender	112211221122
+Recipients	556699887766
+Sender Ip	2001:12ff:0:4::22
+Sender Port	37064
+Sender Device	smba
+Type	text
+Message Style	individual
+Message Size	112
+
+
+Message	
+Timestamp	2021-01-01 15:12:31 UTC
+Message Id	aaaaaaaaaaaaaaas3498f456789wufs
+Sender	556699887766
+Recipients	112211221122
+Sender Device	android
+Type	ptt
+Message Style	individual
+Message Size	560
+
+
+Message	
+Timestamp	2021-01-01 22:12:32 UTC
+Message Id	egergregergreg5g5g45g45g4g45g45
+Sender	112211221122
+Recipients	556611884432
+Sender Ip	FE80::4A1E:C9FF:FE21:850C
+Sender Port	55004
+Sender Device	smba
+Type	ptt
+Message Style	individual
+Message Size	540
